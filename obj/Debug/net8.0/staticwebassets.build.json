@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8TNAc9x5L4bHcI7q8slDJL3LfuIRYFL8z3btO/d3nw8=",
+  "Source": "minmal-api",
+  "BasePath": "_content/minmal-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
